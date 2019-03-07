@@ -1,0 +1,3 @@
+# okHttpPackage
+个人封装的okhttp工具
+只建议参考,不建议直接使用,因为此封装在底层封装了项目的token值,并且放到了header下面
